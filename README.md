@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Acrobammer
 
-You can use the [editor on GitHub](https://github.com/acrobammer/www/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The successor to the Acrobot is here: the Acrobammer. Acrobot is a self-balancing robot project from Penn's graduate-level mechatronics course, MEAM510.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What makes it different??
 
-### Markdown
+* Acrobammer is harder: Arm Cortex-M4 + BLDC motors
+* Acrobammer is better: 1 meter tall
+* Acrobammer is faster: 5 m/s
+* Acrobammer is stronger: 15 kg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It's a sledgehammer. Specifically, it's the biggest sledgehammer sold by Hoffmann Group, our local industrial tool supplier. To go larger, you'd need a ridiculous Crossfit hammer or the epic, oversized Big Ass Mallet from Mahler's Symphony No. 6.
 
-```markdown
-Syntax highlighted code block
+This is based on an idea by CMU professor Ralph Hollis: putting the weight as high as possible makes it easier to move the wheels on a mobile inverted pendulum. This is also based on an idea by Gunner Tagliabue: a loud boom is satisfying.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acrobammer/www/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### TODO
+- [ ] order parts
+  - [ ] battery
+  - [ ] signaling (light, buzzer, etc.)
+  - [ ] odometer
+  - [ ] sensors (camera, distance, etc.)
+- [ ] mount controller to box
+- [ ] solder
+- [ ] test run
+- [ ] program
