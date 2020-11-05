@@ -1,6 +1,6 @@
 ## Acrobammer
 
-The successor to the Acrobot is here: the Acrobammer. Acrobot is a self-balancing robot project from Penn's graduate-level mechatronics course, MEAM510.
+The successor to the Acrobot is here: the Acrobammer. Acrobot is a self-balancing robot project from Penn's graduate-level mechatronics course, MEAM510. Acrobammer is the next level.
 
 ### What makes it different??
 
