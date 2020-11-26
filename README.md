@@ -17,9 +17,12 @@ This is based on an idea by CMU professor Ralph Hollis: putting the weight as hi
 - [ ] order parts
   - [ ] battery
   - [ ] signaling (light, buzzer, etc.)
-  - [ ] odometer
+  - [ ] odometer/encoder
   - [ ] sensors (camera, distance, etc.)
 - [ ] mount controller to box
 - [ ] solder
-- [ ] test run
-- [ ] program
+- [ ] test run motors
+- [ ] modify ODrive firmware to read sensor data
+- [ ] flash modified binary
+- [ ] tune, debug, etc.
+- [ ] add features (buzzer, etc.)
